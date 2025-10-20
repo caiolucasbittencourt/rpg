@@ -1,0 +1,13 @@
+{
+  "name": "rpg-save-the-village",
+  "version": "1.0.0",
+  "description": "Um jogo de RPG simples com Node.js e EJS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
